@@ -1,8 +1,6 @@
-# Tier 4. Module 1: Mastering Front-End Development with React
+# Tier 4. Module 4: Mastering Front-End Development with React
 
-## Topic 13 - Asynchronous Redux
-
-## Topic 14 - Optimization of selectors
+## Extra Topic - Working with users and authorization
 
 ## Homework
 
